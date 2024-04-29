@@ -1,0 +1,333 @@
+.boy{
+    width:100%;
+    height:100%;
+    padding:0px;
+    margin:0px;
+    overflow-x: hidden;
+
+}
+
+
+.img{
+    background-image: linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.40)), url("https://wallpapers-all.com/uploads/posts/2018-04/1_river,_forest.jpg");
+    width:100%;
+    height:85vh;
+    background-size: cover;
+}
+.img{
+    color:white;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+}
+.img span{
+    color:#90BE54;
+    font-size:60px;
+    font-weight:bold;
+    position: relative;
+    right:60px;
+
+}
+.img h1{
+    position: relative;
+    left:120px;
+    
+}
+.btn{
+    position: relative;
+    top:15%;
+    color:white; 
+    right:30%;
+    width:17%;
+    height:8%;
+    border-radius:20px;
+    border:2px solid #90BE54;
+
+}
+.btn:hover{
+    background-color:#90BE54; 
+}
+.next {
+   text-align:center;
+   margin:60px 0px 60px 0px;
+}
+.next h2{
+    margin-bottom:30px;
+}
+
+
+.para1{
+    position: relative;
+    left:80px;
+    top:-64px;
+}
+.first{
+    position: relative;
+    left:80px;
+    width:100%;
+    height:20%;
+}
+.icons{
+    background-color: #90BE54;
+   
+    top:100px;
+
+}
+.icons ul{
+    display:flex;
+    align-items: center;
+    justify-content:space-evenly;
+    height:26vh;
+    color:white;
+    
+
+}
+.icons ul li{
+    list-style-type: none;
+    font-size:40px;
+    font-weight:bolder;
+    position: relative;
+    top:30px;
+}
+.icons ul li span{
+    font-size:16px;
+    position: relative;
+    top:-20px;
+}
+.text1{
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    padding-top:50px;
+
+
+}
+.text2{
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    padding-top:30px;
+}
+.all1{
+    margin:0px 0px 0px 60px ;
+    
+}
+.all2{
+    margin:0px 0px 30px 60px ;
+}
+.pho{
+    border: 2px solid black;
+}
+.pho span{
+font-weight: bold;
+}
+.pho1 img{
+    border-radius:50%;
+    width:75px;
+    margin-bottom:20px;
+    
+}
+.pho2 img{
+    border-radius:50%;
+    width:75px;
+    margin-bottom:20px;
+
+    
+}
+.pho1 span{
+    margin:10px;
+}
+.pho2 span{
+    margin:10px;
+}
+.pho3 span{
+    margin:10px;
+}
+.pho1 span{
+    margin:10px;
+}
+.pho4 img{
+    border-radius:50%;
+    width:75px;
+    margin-bottom:20px;
+
+    
+}
+.pho3 img{
+    border-radius:50%;
+    width:75px;
+    margin-bottom:20px;
+
+    
+}
+.pho4 img{
+    border-radius:50%;
+    width:75px;
+    
+}
+.pho p{
+    font-size:15px;
+}
+.pho1{
+    border: 1px solid#90BE54;
+    margin:20px;
+    padding:20px;
+
+}
+.pho2{
+    border: 1px solid #90BE54;
+    margin:20px;
+    padding:20px;
+
+}
+.pho3{
+    border: 1px solid #90BE54;
+    margin:20px;
+    padding:20px;
+
+}
+.pho4{
+    border: 1px solid #90BE54;
+    margin:20px;
+    padding:20px;
+
+}
+.cause{
+    background:linear-gradient(rgba(0,0,0,0.60),rgba(0,0,0,0.60)) ,url("https://i.pinimg.com/originals/96/42/1a/96421a97b83034f52c410befe7cefa20.jpg");
+     background-size:cover;
+     height:100vh;
+} 
+.cause h1{
+    display: flex;
+    justify-content: center;
+    color:white;
+    font-size:30px;
+    padding:40px;
+    font-weight:bold;
+
+}
+
+.hand h1{
+    font-size:20px;
+    position: relative;
+    right:8%;
+}
+.hand img{
+    position: relative;
+    left:20%;
+    width:80%;
+    height:600px;
+    padding:40px;
+
+}
+.hand ul{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    right:8%;
+    
+}
+.hand ul li{
+    color:#90BE54;
+    list-style-type: none;
+    font-size:30px;
+
+
+}
+.hand ul li span{
+    font-size: 18px;
+    color: white;
+}
+.blue{
+    color:white;
+    padding:30px 0px 0px 40px;
+}
+.team{
+    padding:60px;
+    
+}
+.team h1{
+    font-size:35px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+.team p{
+    display: flex;
+    justify-content: center;
+    
+}
+.totalimg{
+    display:flex;
+    justify-content: center;
+}
+.totalname{
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding:10px;
+}
+
+.totalimg img{
+    width:20%;
+    margin:10px;
+}
+.sell{
+    box-shadow:5px 3px 10px 0px black;
+   
+    padding:50px;
+    
+}
+.sell:hover{
+    background-color:powderblue;
+    transition-duration:0.5s;
+}
+.sell h3{
+    font-family: Protest Riot;
+    margin-bottom:20px;
+
+}
+
+.sell1{
+    box-shadow:5px 3px 10px 0px black;
+   margin-left:50px;
+    padding:50px;
+   
+    
+}
+
+.sell1:hover{
+    background-color:powderblue;
+    transition-duration:0.5s;
+}
+.sell1 h3{
+    font-family: Protest Riot;
+    margin-top:-15px;
+    margin-bottom:10px;
+}
+.sell2{
+    box-shadow:5px 3px 10px 0px black;
+    margin-left:50px;
+   
+    padding:50px;
+    
+}
+.sell2:hover{
+    background-color:powderblue;
+    transition-duration:0.5s;
+}
+.sell2 h3{
+    font-family: Protest Riot;
+    font-size:25px;
+    margin-bottom:20px;
+
+}
+.sell p{
+    padding:5px;
+}
+
+.sell1 p{
+    padding:5px;
+}.sell2 p{
+    padding:5px;
+}

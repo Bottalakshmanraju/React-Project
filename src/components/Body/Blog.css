@@ -1,0 +1,61 @@
+.total{
+    background-color: #F7F7F7;
+
+}
+
+.blg1 {
+    background:linear-gradient(rgba(0,0,0,0.40),rgba(0, 0, 0, 0.40)), url("https://png.pngtree.com/background/20230613/original/pngtree-stream-in-forest-stock-images-and-royaltyfree-footage-picture-image_3424270.jpg");
+    background-size:cover;
+    height:50vh;
+   
+}
+.blg1 h1{
+    color:white;
+   display: flex;
+   justify-content: center;
+   padding-top:10%;
+}
+.blg1 p{
+    color:white;
+    display: flex;
+    justify-content: center;
+ }
+ .corsu{
+    margin-top:8%;
+    margin-bottom: 9%;
+    background-color: #F7F7F7;
+
+
+ }
+ 
+ .matter h3{
+display:flex;
+justify-content: center;
+border: 2px solid black;
+
+ }
+ .model{
+    background-color: #F7F7F7;
+ }
+ .model h1{
+    display:flex;
+    justify-content: center;
+   color: #84AD4F;                                                                                                  
+ }
+ .model p{
+    display:flex;                                                                                                                                                                                                                                           
+    justify-content: center;
+    color:#959795;
+ }
+ .box{
+    margin-top: 30px;
+    margin-bottom:30px;
+ }
+ .box h4{
+    display: flex;
+    justify-content: center;
+ }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+
+.box h4{
+    box-shadow:5px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ;
+}

@@ -1,0 +1,64 @@
+.head{
+    display:flex;
+   padding:35px 0;
+   align-items:center;
+   justify-content: space-between; 
+   margin-top:-20px;
+}
+.head ul{
+    display:flex;
+ 
+    
+}
+.head ul li{
+    margin:20px;
+    
+    list-style-type:none;
+
+    
+}
+.input{
+    width:200px;
+    height:30px;
+    position: relative;
+    top:18px;
+    border-radius:10px;
+    padding:10px;
+    font-family: noto sans;
+}
+.bt{
+    width:130px;
+    height:30px;
+    position: relative;
+    top:18px;
+    margin-left:8px;
+    border-radius:10px;
+    border:none;
+    font-family: noto sans;
+    background-color: #90BE54;
+    color:white;
+
+
+
+}
+.bt:hover{
+    background-color: #262626;
+}
+.head h1{
+    font-size:20px;
+    font-style: oblique;
+}
+.max{
+    text-decoration:none;
+    color:#262626;
+    font-weight: bold;
+    position: relative;
+ 
+    right:130px;
+
+}
+.head span{
+    color:olive;
+    font-weight:bold;
+    font-size:22x;
+}
