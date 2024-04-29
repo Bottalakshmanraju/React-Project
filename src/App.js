@@ -13,7 +13,7 @@ function App() {
    <Router>
       <Header/>
         <Routes>
-         <Route path='/React-Website' exact  Component={Home}/>
+         <Route path='/React-Project' exact  Component={Home}/>
          <Route path='pages' exact  Component={Pages}/>
          <Route path='blog' exact  Component={Blog}/>
          <Route path='shop' exact  Component={Shop}/>

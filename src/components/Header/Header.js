@@ -14,7 +14,7 @@ function header(){
     <div className='head'>
       <h1><span><BiWorld  style={{fontSize:40,marginTop:-8}}/>ECO</span>WORLD</h1>
       <ul>
-      <li><Link to='/React-Website' className='max'>Home</Link></li>
+      <li><Link to='/React-Project' className='max'>Home</Link></li>
       <li><Link to='pages' className='max'>Pages</Link></li>
       <li><Link to='blog' className='max'>Blogs</Link></li>
       <li><Link to='shop' className='max'>Shopp</Link></li>
