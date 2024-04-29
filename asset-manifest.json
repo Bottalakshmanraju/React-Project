@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/React-Project/static/css/main.9e9d9ad3.css",
+    "main.js": "/React-Project/static/js/main.670b3b12.js",
+    "static/js/787.1937f22b.chunk.js": "/React-Project/static/js/787.1937f22b.chunk.js",
+    "static/media/plats.jpg": "/React-Project/static/media/plats.c8cce9566557eafd4c23.jpg",
+    "static/media/elephant.avif": "/React-Project/static/media/elephant.f1eff1c5d57277a5333a.avif",
+    "static/media/plant1.jpg": "/React-Project/static/media/plant1.588a9873b867ba4bef80.jpg",
+    "static/media/4k1.jpg": "/React-Project/static/media/4k1.1ab455f20fce4b8887a5.jpg",
+    "static/media/energy.avif": "/React-Project/static/media/energy.927ecee93379c4a102ec.avif",
+    "static/media/all animals.jpg": "/React-Project/static/media/all animals.364fdaf6b5fafc9d6664.jpg",
+    "static/media/tree.jpg": "/React-Project/static/media/tree.407152a89a6c1b2395fd.jpg",
+    "static/media/team2.jpg": "/React-Project/static/media/team2.a338b354528a309d6669.jpg",
+    "static/media/team1.jpg": "/React-Project/static/media/team1.749b7088f22c026811e0.jpg",
+    "static/media/team3.jpg": "/React-Project/static/media/team3.41612dd8a1593f3a7813.jpg",
+    "static/media/team4.jpg": "/React-Project/static/media/team4.dd96114ba94bd235c7b8.jpg",
+    "static/media/smily.jpeg": "/React-Project/static/media/smily.91b368b305b963289201.jpeg",
+    "static/media/shop1.jpg": "/React-Project/static/media/shop1.e36163f8883de2b6a621.jpg",
+    "static/media/baby.jpg": "/React-Project/static/media/baby.786aa5f74d7435bca6cf.jpg",
+    "static/media/welcome.jpg": "/React-Project/static/media/welcome.65e12c752f49adc42c7b.jpg",
+    "static/media/shop15.jpg": "/React-Project/static/media/shop15.52745f76815b9467273a.jpg",
+    "static/media/shop13.jpg": "/React-Project/static/media/shop13.d6f545cbc37f7cba59d8.jpg",
+    "static/media/slr house.avif": "/React-Project/static/media/slr house.20affcb3659db9625520.avif",
+    "static/media/shop16.jpg": "/React-Project/static/media/shop16.7f5aa9cb6e33a8c99186.jpg",
+    "static/media/4kplant.jpg": "/React-Project/static/media/4kplant.b912a7a1b8e86e2eb7a5.jpg",
+    "static/media/shop17.jpg": "/React-Project/static/media/shop17.a29a8533380639502066.jpg",
+    "static/media/forest.avif": "/React-Project/static/media/forest.98035f5f36636bf2a5ca.avif",
+    "static/media/lory.jpg": "/React-Project/static/media/lory.3ecc9e1dd6d3ab70352c.jpg",
+    "index.html": "/React-Project/index.html",
+    "main.9e9d9ad3.css.map": "/React-Project/static/css/main.9e9d9ad3.css.map",
+    "main.670b3b12.js.map": "/React-Project/static/js/main.670b3b12.js.map",
+    "787.1937f22b.chunk.js.map": "/React-Project/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e9d9ad3.css",
+    "static/js/main.670b3b12.js"
+  ]
+}
