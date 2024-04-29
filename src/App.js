@@ -1,12 +1,11 @@
 import React from 'react'
-import Header from './components/Header/Header';
+import Header from './components/Header/Home';
 import {BrowserRouter as Router,Routes,Route} from 'react-router-dom';
 import Home from './components/Body/Home';
 import Pages from './components/Body/Pages';
 import Blog from './components/Body/Blog';
 import Shop from './components/Body/Shop';
 import Footer from './components/Footer/footer';
-
 function App() {
   return (
     <div>         
